@@ -24,7 +24,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [stefanpoensgen/SptecOrderComments](https://github.com/stefanpoensgen/SptecOrderComments) ([1.2.0](https://github.com/stefanpoensgen/SptecOrderComments/releases/tag/1.2.0), 1 day ago) - Adds the ability to store comments to orders in the Shopware Admin.
+- [stefanpoensgen/SptecOrderComments](https://github.com/stefanpoensgen/SptecOrderComments) ([1.3.0](https://github.com/stefanpoensgen/SptecOrderComments/releases/tag/1.3.0), today) - Adds the ability to store comments to orders in the Shopware Admin.
 - [stefanpoensgen/SptecLazyload](https://github.com/stefanpoensgen/SptecLazyload) ([0.2.0](https://github.com/stefanpoensgen/SptecLazyload/releases/tag/0.2.0), 3 days ago) - Simple integration of lazysizes into Shopware 6.
 - [shopware/platform](https://github.com/shopware/platform) ([v6.4.16.0](https://github.com/shopware/platform/releases/tag/v6.4.16.0), 5 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [FriendsOfShopware/FroshPlatformTemplateMail](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail) ([0.4.5](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail/releases/tag/0.4.5), 1 week ago) - 
