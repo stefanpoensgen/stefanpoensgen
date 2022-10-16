@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [stefanpoensgen/website](https://github.com/stefanpoensgen/website) - My personal website (today)
 - [stefanpoensgen/SptecOrderComments](https://github.com/stefanpoensgen/SptecOrderComments) - Adds the ability to store comments to orders in the Shopware Admin. (1 day ago)
 - [stefanpoensgen/SptecGmailApiMailerBundle](https://github.com/stefanpoensgen/SptecGmailApiMailerBundle) - Symfony Mailer Transport for Gmail API including Google OAuth2 authentication. (1 day ago)
-- [stefanpoensgen/website](https://github.com/stefanpoensgen/website) - My personal website (2 days ago)
 - [stefanpoensgen/SptecLazyload](https://github.com/stefanpoensgen/SptecLazyload) - Simple integration of lazysizes into Shopware 6. (4 days ago)
 - [stefanpoensgen/windows-dev-environment](https://github.com/stefanpoensgen/windows-dev-environment) -  (2 weeks ago)
 - [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (2 months ago)
