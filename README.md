@@ -5,10 +5,10 @@
 - [stefanpoensgen/SptecOrderComments](https://github.com/stefanpoensgen/SptecOrderComments) - Adds the ability to store comments to orders in the Shopware Admin. (5 days ago)
 - [shopware/recipes](https://github.com/shopware/recipes) - Flex Recipes (5 days ago)
 - [stefanpoensgen/SptecGmailApiMailerBundle](https://github.com/stefanpoensgen/SptecGmailApiMailerBundle) - Symfony Mailer Transport for Gmail API including Google OAuth2 authentication. (1 week ago)
+- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (2 weeks ago)
 - [stefanpoensgen/website](https://github.com/stefanpoensgen/website) - My personal website (2 weeks ago)
 - [stefanpoensgen/SptecLazyload](https://github.com/stefanpoensgen/SptecLazyload) - Simple integration of lazysizes into Shopware 6. (2 weeks ago)
 - [stefanpoensgen/windows-dev-environment](https://github.com/stefanpoensgen/windows-dev-environment) -  (1 month ago)
-- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (2 months ago)
 - [FriendsOfShopware/FroshPlatformTemplateMail](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail) -  (4 months ago)
 
 #### 🌱 My latest projects
