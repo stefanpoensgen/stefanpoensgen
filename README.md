@@ -24,8 +24,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/platform](https://github.com/shopware/platform) ([v6.4.17.0](https://github.com/shopware/platform/releases/tag/v6.4.17.0), 2 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [shopware/platform](https://github.com/shopware/platform) ([v6.4.17.0](https://github.com/shopware/platform/releases/tag/v6.4.17.0), 3 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [stefanpoensgen/SptecOrderComments](https://github.com/stefanpoensgen/SptecOrderComments) ([1.3.2](https://github.com/stefanpoensgen/SptecOrderComments/releases/tag/1.3.2), 2 weeks ago) - Adds the ability to store comments to orders in the Shopware Admin.
 - [stefanpoensgen/SptecLazyload](https://github.com/stefanpoensgen/SptecLazyload) ([0.2.0](https://github.com/stefanpoensgen/SptecLazyload/releases/tag/0.2.0), 4 weeks ago) - Simple integration of lazysizes into Shopware 6.
 - [FriendsOfShopware/FroshPlatformTemplateMail](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail) ([0.4.5](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail/releases/tag/0.4.5), 1 month ago) - 
-- [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) ([0.3.0](https://github.com/FriendsOfShopware/FroshPlatformShareBasket/releases/tag/0.3.0), 4 months ago) - This plugin allows your customers to save the current basket and share it via link.
+- [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) ([0.3.0](https://github.com/FriendsOfShopware/FroshPlatformShareBasket/releases/tag/0.3.0), 5 months ago) - This plugin allows your customers to save the current basket and share it via link.
