@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [stefanpoensgen/website](https://github.com/stefanpoensgen/website) - My personal website (4 days ago)
+- [stefanpoensgen/website](https://github.com/stefanpoensgen/website) - My personal website (5 days ago)
 - [stefanpoensgen/windows-dev-environment](https://github.com/stefanpoensgen/windows-dev-environment) -  (3 weeks ago)
-- [shopware/recipes](https://github.com/shopware/recipes) - Flex Recipes (4 weeks ago)
+- [shopware/recipes](https://github.com/shopware/recipes) - Flex Recipes (1 month ago)
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) -  (1 month ago)
 - [FriendsOfShopware/FroshPlatformTemplateMail](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail) -  (1 month ago)
 - [stefanpoensgen/SptecOrderComments](https://github.com/stefanpoensgen/SptecOrderComments) - Adds the ability to store comments to orders in the Shopware Admin. (2 months ago)
@@ -24,7 +24,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/platform](https://github.com/shopware/platform) ([v6.4.18.1](https://github.com/shopware/platform/releases/tag/v6.4.18.1), 4 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [shopware/platform](https://github.com/shopware/platform) ([v6.4.18.1](https://github.com/shopware/platform/releases/tag/v6.4.18.1), 5 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([0.2.13](https://github.com/FriendsOfShopware/FroshTools/releases/tag/0.2.13), 1 month ago) - 
 - [FriendsOfShopware/FroshPlatformTemplateMail](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail) ([1.0.0](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail/releases/tag/1.0.0), 1 month ago) - 
 - [stefanpoensgen/SptecOrderComments](https://github.com/stefanpoensgen/SptecOrderComments) ([1.3.2](https://github.com/stefanpoensgen/SptecOrderComments/releases/tag/1.3.2), 2 months ago) - Adds the ability to store comments to orders in the Shopware Admin.
