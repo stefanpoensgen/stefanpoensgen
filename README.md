@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [stefanpoensgen/website](https://github.com/stefanpoensgen/website) - My personal website (2 days ago)
-- [stefanpoensgen/windows-dev-environment](https://github.com/stefanpoensgen/windows-dev-environment) -  (2 days ago)
+- [stefanpoensgen/website](https://github.com/stefanpoensgen/website) - My personal website (3 days ago)
+- [stefanpoensgen/windows-dev-environment](https://github.com/stefanpoensgen/windows-dev-environment) -  (3 days ago)
 - [shopware/recipes](https://github.com/shopware/recipes) - Flex Recipes (1 month ago)
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) -  (1 month ago)
-- [FriendsOfShopware/FroshPlatformTemplateMail](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail) -  (1 month ago)
+- [FriendsOfShopware/FroshPlatformTemplateMail](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail) -  (2 months ago)
 - [stefanpoensgen/SptecOrderComments](https://github.com/stefanpoensgen/SptecOrderComments) - Adds the ability to store comments to orders in the Shopware Admin. (3 months ago)
 - [stefanpoensgen/SptecGmailApiMailerBundle](https://github.com/stefanpoensgen/SptecGmailApiMailerBundle) - Symfony Mailer Transport for Gmail API including Google OAuth2 authentication. (3 months ago)
 - [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (3 months ago)
