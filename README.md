@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [stefanpoensgen/website](https://github.com/stefanpoensgen/website) - My personal website (today)
-- [stefanpoensgen/windows-dev-environment](https://github.com/stefanpoensgen/windows-dev-environment) -  (6 days ago)
+- [stefanpoensgen/website](https://github.com/stefanpoensgen/website) - My personal website (1 day ago)
+- [stefanpoensgen/windows-dev-environment](https://github.com/stefanpoensgen/windows-dev-environment) -  (1 week ago)
 - [shopware/recipes](https://github.com/shopware/recipes) - Flex Recipes (1 month ago)
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) -  (1 month ago)
 - [FriendsOfShopware/FroshPlatformTemplateMail](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail) -  (2 months ago)
