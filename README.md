@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) -  (2 days ago)
+- [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) -  (3 days ago)
 - [stefanpoensgen/website](https://github.com/stefanpoensgen/website) - My personal website (2 weeks ago)
 - [stefanpoensgen/windows-dev-environment](https://github.com/stefanpoensgen/windows-dev-environment) -  (3 weeks ago)
 - [shopware/recipes](https://github.com/shopware/recipes) - Flex Recipes (1 month ago)
