@@ -5,7 +5,7 @@
 - [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) - This plugin allows your customers to save the current basket and share it via link. (2 weeks ago)
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (2 weeks ago)
 - [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) - This plugin allows you to archive your mails. (3 weeks ago)
-- [FriendsOfShopware/FroshPlatformTemplateMail](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail) - This plugin allows you to use twig mails in Shopware 6. (3 weeks ago)
+- [FriendsOfShopware/FroshPlatformTemplateMail](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail) - This plugin allows you to use twig mails in Shopware 6. (4 weeks ago)
 - [stefanpoensgen/website](https://github.com/stefanpoensgen/website) - My personal website (1 month ago)
 - [stefanpoensgen/windows-dev-environment](https://github.com/stefanpoensgen/windows-dev-environment) -  (1 month ago)
 - [shopware/recipes](https://github.com/shopware/recipes) - Flex Recipes (2 months ago)
@@ -30,4 +30,4 @@
 - [FriendsOfShopware/FroshPlatformTemplateMail](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail) ([2.0.1](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail/releases/tag/2.0.1), 2 weeks ago) - This plugin allows you to use twig mails in Shopware 6.
 - [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) ([1.0.0](https://github.com/FriendsOfShopware/FroshPlatformMailArchive/releases/tag/1.0.0), 2 weeks ago) - This plugin allows you to archive your mails.
 - [stefanpoensgen/SptecOrderComments](https://github.com/stefanpoensgen/SptecOrderComments) ([1.3.2](https://github.com/stefanpoensgen/SptecOrderComments/releases/tag/1.3.2), 4 months ago) - Adds the ability to store comments to orders in the Shopware Admin.
-- [stefanpoensgen/SptecLazyload](https://github.com/stefanpoensgen/SptecLazyload) ([0.2.0](https://github.com/stefanpoensgen/SptecLazyload/releases/tag/0.2.0), 4 months ago) - Simple integration of lazysizes into Shopware 6.
+- [stefanpoensgen/SptecLazyload](https://github.com/stefanpoensgen/SptecLazyload) ([0.2.0](https://github.com/stefanpoensgen/SptecLazyload/releases/tag/0.2.0), 5 months ago) - Simple integration of lazysizes into Shopware 6.
