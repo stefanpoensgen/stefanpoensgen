@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) - This plugin allows your customers to save the current basket and share it via link. (1 month ago)
+- [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) - This plugin allows your customers to save the current basket and share it via link. (today)
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (1 month ago)
 - [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) - This plugin allows you to archive your mails. (1 month ago)
 - [FriendsOfShopware/FroshPlatformTemplateMail](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail) - This plugin allows you to use twig mails in Shopware 6. (1 month ago)
@@ -24,8 +24,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) ([1.1.1](https://github.com/FriendsOfShopware/FroshPlatformShareBasket/releases/tag/1.1.1), today) - This plugin allows your customers to save the current basket and share it via link.
 - [shopware/platform](https://github.com/shopware/platform) ([v6.5.0.0-rc3](https://github.com/shopware/platform/releases/tag/v6.5.0.0-rc3), 3 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
-- [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) ([1.0.1](https://github.com/FriendsOfShopware/FroshPlatformShareBasket/releases/tag/1.0.1), 1 month ago) - This plugin allows your customers to save the current basket and share it via link.
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([1.0.2](https://github.com/FriendsOfShopware/FroshTools/releases/tag/1.0.2), 1 month ago) - A collection of useful tools for Shopware 6
 - [FriendsOfShopware/FroshPlatformTemplateMail](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail) ([2.0.1](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail/releases/tag/2.0.1), 1 month ago) - This plugin allows you to use twig mails in Shopware 6.
 - [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) ([1.0.0](https://github.com/FriendsOfShopware/FroshPlatformMailArchive/releases/tag/1.0.0), 1 month ago) - This plugin allows you to archive your mails.
