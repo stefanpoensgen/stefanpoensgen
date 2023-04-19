@@ -13,6 +13,7 @@
 
 #### 🌱 My latest projects
 
+- [stefanpoensgen/shopware-code-quality](https://github.com/stefanpoensgen/shopware-code-quality) - 
 - [stefanpoensgen/SptecGmailApiMailerBundle](https://github.com/stefanpoensgen/SptecGmailApiMailerBundle) - Symfony Mailer Transport for Gmail API including Google OAuth2 authentication.
 - [stefanpoensgen/windows-dev-environment](https://github.com/stefanpoensgen/windows-dev-environment) - 
 - [stefanpoensgen/SptecOrderComments](https://github.com/stefanpoensgen/SptecOrderComments) - Adds the ability to store comments to orders in the Shopware Admin.
@@ -20,7 +21,6 @@
 - [stefanpoensgen/SptecLazyload](https://github.com/stefanpoensgen/SptecLazyload) - Simple integration of lazysizes into Shopware 6.
 - [stefanpoensgen/SpLazyLoad](https://github.com/stefanpoensgen/SpLazyLoad) - Simple integration of lazysizes into Shopware
 - [stefanpoensgen/SpNoPicture](https://github.com/stefanpoensgen/SpNoPicture) - Shopware Plugin to set a default product picture instead of &#34;no picture&#34; image from theme.
-- [stefanpoensgen/SpShareBasket](https://github.com/stefanpoensgen/SpShareBasket) - Shopware Plugin to share your basket . Also stores product mode, coupons and selected fields from s_order_basket_attributes
 
 #### 🔭 Latest releases I've contributed to
 
