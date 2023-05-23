@@ -8,7 +8,7 @@
 - [shopware/recipes](https://github.com/shopware/recipes) - Flex Recipes (1 month ago)
 - [stefanpoensgen/website](https://github.com/stefanpoensgen/website) - My personal website (1 month ago)
 - [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) - This plugin allows your customers to save the current basket and share it via link. (1 month ago)
-- [FriendsOfShopware/FroshPlatformThumbnailProcessor](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor) - This shopware6 plugin allows you to use variable thumbnails - on the fly. Including lazy loading. (2 months ago)
+- [FriendsOfShopware/FroshPlatformThumbnailProcessor](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor) - This shopware6 plugin allows you to use variable thumbnails - on the fly. Including lazy loading. (3 months ago)
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (3 months ago)
 
 #### 🌱 My latest projects
