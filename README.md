@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (4 days ago)
 - [stefanpoensgen/SptecOrderComments](https://github.com/stefanpoensgen/SptecOrderComments) - Adds the ability to store comments to orders in the Shopware Admin. (3 weeks ago)
 - [FriendsOfShopware/terraform](https://github.com/FriendsOfShopware/terraform) - Manage GitHub organization with Terraform (1 month ago)
 - [FriendsOfShopware/code-quality-meta](https://github.com/FriendsOfShopware/code-quality-meta) - Meta repository for Shopware 6 code quality tools (1 month ago)
@@ -9,7 +10,6 @@
 - [stefanpoensgen/website](https://github.com/stefanpoensgen/website) - My personal website (2 months ago)
 - [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) - This plugin allows your customers to save the current basket and share it via link. (2 months ago)
 - [FriendsOfShopware/FroshPlatformThumbnailProcessor](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor) - This shopware6 plugin allows you to use variable thumbnails - on the fly. Including lazy loading. (3 months ago)
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (3 months ago)
 
 #### 🌱 My latest projects
 
