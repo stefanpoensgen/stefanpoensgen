@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) - This plugin allows your customers to save the current basket and share it via link. (6 days ago)
+- [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) - This plugin allows your customers to save the current basket and share it via link. (1 week ago)
 - [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (2 weeks ago)
 - [stefanpoensgen/SptecOrderComments](https://github.com/stefanpoensgen/SptecOrderComments) - Adds the ability to store comments to orders in the Shopware Admin. (1 month ago)
 - [FriendsOfShopware/terraform](https://github.com/FriendsOfShopware/terraform) - Manage GitHub organization with Terraform (1 month ago)
@@ -24,7 +24,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) ([1.1.4](https://github.com/FriendsOfShopware/FroshPlatformShareBasket/releases/tag/1.1.4), 6 days ago) - This plugin allows your customers to save the current basket and share it via link.
+- [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) ([1.1.4](https://github.com/FriendsOfShopware/FroshPlatformShareBasket/releases/tag/1.1.4), 1 week ago) - This plugin allows your customers to save the current basket and share it via link.
 - [FriendsOfShopware/FroshPlatformThumbnailProcessor](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor) ([3.0.1](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor/releases/tag/3.0.1), 1 week ago) - This shopware6 plugin allows you to use variable thumbnails - on the fly. Including lazy loading.
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([1.0.6](https://github.com/FriendsOfShopware/FroshTools/releases/tag/1.0.6), 1 week ago) - A collection of useful tools for Shopware 6
 - [shopware/platform](https://github.com/shopware/platform) ([v6.5.1.1](https://github.com/shopware/platform/releases/tag/v6.5.1.1), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
