@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (today)
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (1 day ago)
 - [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) - This plugin allows your customers to save the current basket and share it via link. (1 week ago)
 - [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (2 weeks ago)
 - [stefanpoensgen/SptecOrderComments](https://github.com/stefanpoensgen/SptecOrderComments) - Adds the ability to store comments to orders in the Shopware Admin. (1 month ago)
@@ -24,8 +24,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([1.1.0](https://github.com/FriendsOfShopware/FroshTools/releases/tag/1.1.0), today) - A collection of useful tools for Shopware 6
-- [shopware/platform](https://github.com/shopware/platform) ([v6.5.2.1](https://github.com/shopware/platform/releases/tag/v6.5.2.1), 1 day ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([1.1.0](https://github.com/FriendsOfShopware/FroshTools/releases/tag/1.1.0), 1 day ago) - A collection of useful tools for Shopware 6
+- [shopware/platform](https://github.com/shopware/platform) ([v6.5.2.1](https://github.com/shopware/platform/releases/tag/v6.5.2.1), 2 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) ([1.1.4](https://github.com/FriendsOfShopware/FroshPlatformShareBasket/releases/tag/1.1.4), 1 week ago) - This plugin allows your customers to save the current basket and share it via link.
 - [FriendsOfShopware/FroshPlatformThumbnailProcessor](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor) ([3.0.1](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor/releases/tag/3.0.1), 1 week ago) - This shopware6 plugin allows you to use variable thumbnails - on the fly. Including lazy loading.
 - [stefanpoensgen/SptecOrderComments](https://github.com/stefanpoensgen/SptecOrderComments) ([2.0.1](https://github.com/stefanpoensgen/SptecOrderComments/releases/tag/2.0.1), 1 month ago) - Adds the ability to store comments to orders in the Shopware Admin.
