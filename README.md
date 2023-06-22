@@ -24,7 +24,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfShopware/shopware-cli-action](https://github.com/FriendsOfShopware/shopware-cli-action) ([v1.0.0](https://github.com/FriendsOfShopware/shopware-cli-action/releases/tag/v1.0.0), 1 day ago) - GitHub Action to Install Shopware CLI
+- [FriendsOfShopware/shopware-cli-action](https://github.com/FriendsOfShopware/shopware-cli-action) ([v1.0.1](https://github.com/FriendsOfShopware/shopware-cli-action/releases/tag/v1.0.1), today) - GitHub Action to Install Shopware CLI
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([1.2.0](https://github.com/FriendsOfShopware/FroshTools/releases/tag/1.2.0), 2 days ago) - A collection of useful tools for Shopware 6
 - [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) ([1.1.5](https://github.com/FriendsOfShopware/FroshPlatformShareBasket/releases/tag/1.1.5), 4 days ago) - This plugin allows your customers to save the current basket and share it via link.
 - [FriendsOfShopware/FroshPlatformThumbnailProcessor](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor) ([2.0.1](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor/releases/tag/2.0.1), 5 days ago) - This shopware6 plugin allows you to use variable thumbnails - on the fly. Including lazy loading.
