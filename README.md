@@ -24,7 +24,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfShopware/FroshPlatformThumbnailProcessor](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor) ([3.0.4](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor/releases/tag/3.0.4), today) - This shopware6 plugin allows you to use variable thumbnails - on the fly. Including lazy loading.
+- [FriendsOfShopware/FroshPlatformThumbnailProcessor](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor) ([2.1.0](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor/releases/tag/2.1.0), today) - This shopware6 plugin allows you to use variable thumbnails - on the fly. Including lazy loading.
 - [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) ([1.0.1](https://github.com/FriendsOfShopware/FroshPlatformMailArchive/releases/tag/1.0.1), 6 days ago) - This plugin allows you to archive your mails.
 - [FriendsOfShopware/shopware-cli-action](https://github.com/FriendsOfShopware/shopware-cli-action) ([v1.0.1](https://github.com/FriendsOfShopware/shopware-cli-action/releases/tag/v1.0.1), 1 week ago) - GitHub Action to Install Shopware CLI
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([1.2.0](https://github.com/FriendsOfShopware/FroshTools/releases/tag/1.2.0), 1 week ago) - A collection of useful tools for Shopware 6
