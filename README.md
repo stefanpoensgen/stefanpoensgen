@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) - This plugin allows you to archive your mails. (3 weeks ago)
+- [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) - This plugin allows you to archive your mails. (4 weeks ago)
 - [FriendsOfShopware/shopware-cli-action](https://github.com/FriendsOfShopware/shopware-cli-action) - GitHub Action to Install Shopware CLI (1 month ago)
 - [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) - This plugin allows your customers to save the current basket and share it via link. (1 month ago)
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (1 month ago)
@@ -24,9 +24,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfShopware/FroshPlatformThumbnailProcessor](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor) ([4.0.0](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor/releases/tag/4.0.0), 4 days ago) - This shopware6 plugin allows you to use variable thumbnails - on the fly. Including lazy loading.
-- [shopware/platform](https://github.com/shopware/platform) ([v6.5.3.3](https://github.com/shopware/platform/releases/tag/v6.5.3.3), 5 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
-- [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) ([1.0.1](https://github.com/FriendsOfShopware/FroshPlatformMailArchive/releases/tag/1.0.1), 3 weeks ago) - This plugin allows you to archive your mails.
+- [FriendsOfShopware/FroshPlatformThumbnailProcessor](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor) ([4.0.0](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor/releases/tag/4.0.0), 5 days ago) - This shopware6 plugin allows you to use variable thumbnails - on the fly. Including lazy loading.
+- [shopware/platform](https://github.com/shopware/platform) ([v6.5.3.3](https://github.com/shopware/platform/releases/tag/v6.5.3.3), 6 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) ([1.0.1](https://github.com/FriendsOfShopware/FroshPlatformMailArchive/releases/tag/1.0.1), 4 weeks ago) - This plugin allows you to archive your mails.
 - [FriendsOfShopware/shopware-cli-action](https://github.com/FriendsOfShopware/shopware-cli-action) ([v1.0.1](https://github.com/FriendsOfShopware/shopware-cli-action/releases/tag/v1.0.1), 1 month ago) - GitHub Action to Install Shopware CLI
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([1.2.0](https://github.com/FriendsOfShopware/FroshTools/releases/tag/1.2.0), 1 month ago) - A collection of useful tools for Shopware 6
 - [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) ([1.1.5](https://github.com/FriendsOfShopware/FroshPlatformShareBasket/releases/tag/1.1.5), 1 month ago) - This plugin allows your customers to save the current basket and share it via link.
