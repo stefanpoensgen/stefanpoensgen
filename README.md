@@ -8,8 +8,8 @@
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (2 months ago)
 - [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (2 months ago)
 - [stefanpoensgen/SptecOrderComments](https://github.com/stefanpoensgen/SptecOrderComments) - Adds the ability to store comments to orders in the Shopware Admin. (3 months ago)
-- [shopware/recipes](https://github.com/shopware/recipes) - Flex Recipes (3 months ago)
 - [FriendsOfShopware/code-quality-meta](https://github.com/FriendsOfShopware/code-quality-meta) - Meta repository for Shopware 6 code quality tools (3 months ago)
+- [shopware/recipes](https://github.com/shopware/recipes) - Flex Recipes (3 months ago)
 
 #### 🌱 My latest projects
 
