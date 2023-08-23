@@ -24,9 +24,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/platform](https://github.com/shopware/platform) ([v6.5.4.1](https://github.com/shopware/platform/releases/tag/v6.5.4.1), today) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [shopware/platform](https://github.com/shopware/platform) ([v6.5.4.1](https://github.com/shopware/platform/releases/tag/v6.5.4.1), 1 day ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) ([2.0.2](https://github.com/FriendsOfShopware/FroshPlatformMailArchive/releases/tag/2.0.2), 1 week ago) - This plugin allows you to archive your mails.
-- [FriendsOfShopware/FroshPlatformTemplateMail](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail) ([2.0.2](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail/releases/tag/2.0.2), 4 weeks ago) - This plugin allows you to use twig mails in Shopware 6.
+- [FriendsOfShopware/FroshPlatformTemplateMail](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail) ([2.0.2](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail/releases/tag/2.0.2), 1 month ago) - This plugin allows you to use twig mails in Shopware 6.
 - [FriendsOfShopware/FroshPlatformThumbnailProcessor](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor) ([4.0.0](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor/releases/tag/4.0.0), 1 month ago) - This shopware6 plugin allows you to use variable thumbnails - on the fly. Including lazy loading.
 - [FriendsOfShopware/shopware-cli-action](https://github.com/FriendsOfShopware/shopware-cli-action) ([v1.0.1](https://github.com/FriendsOfShopware/shopware-cli-action/releases/tag/v1.0.1), 2 months ago) - GitHub Action to Install Shopware CLI
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([1.2.0](https://github.com/FriendsOfShopware/FroshTools/releases/tag/1.2.0), 2 months ago) - A collection of useful tools for Shopware 6
