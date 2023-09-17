@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [stefanpoensgen/website](https://github.com/stefanpoensgen/website) - My personal website (1 day ago)
+- [stefanpoensgen/website](https://github.com/stefanpoensgen/website) - My personal website (2 days ago)
 - [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) - Rector rules for Shopware 6 (3 weeks ago)
 - [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) - This plugin allows you to archive your mails. (2 months ago)
 - [FriendsOfShopware/shopware-cli-action](https://github.com/FriendsOfShopware/shopware-cli-action) - GitHub Action to Install Shopware CLI (2 months ago)
@@ -30,5 +30,5 @@
 - [FriendsOfShopware/code-quality-meta](https://github.com/FriendsOfShopware/code-quality-meta) ([0.2.0](https://github.com/FriendsOfShopware/code-quality-meta/releases/tag/0.2.0), 2 weeks ago) - Meta repository for Shopware 6 code quality tools
 - [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) ([0.2.3](https://github.com/FriendsOfShopware/shopware-rector/releases/tag/0.2.3), 3 weeks ago) - Rector rules for Shopware 6
 - [FriendsOfShopware/FroshPlatformTemplateMail](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail) ([2.0.2](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail/releases/tag/2.0.2), 1 month ago) - This plugin allows you to use twig mails in Shopware 6.
-- [FriendsOfShopware/FroshPlatformThumbnailProcessor](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor) ([4.0.0](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor/releases/tag/4.0.0), 1 month ago) - This shopware6 plugin allows you to use variable thumbnails - on the fly. Including lazy loading.
+- [FriendsOfShopware/FroshPlatformThumbnailProcessor](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor) ([4.0.0](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor/releases/tag/4.0.0), 2 months ago) - This shopware6 plugin allows you to use variable thumbnails - on the fly. Including lazy loading.
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([1.2.0](https://github.com/FriendsOfShopware/FroshTools/releases/tag/1.2.0), 2 months ago) - A collection of useful tools for Shopware 6
