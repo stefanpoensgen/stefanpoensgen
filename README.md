@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [stefanpoensgen/website](https://github.com/stefanpoensgen/website) - My personal website (4 days ago)
+- [stefanpoensgen/website](https://github.com/stefanpoensgen/website) - My personal website (5 days ago)
 - [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) - Rector rules for Shopware 6 (3 weeks ago)
 - [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) - This plugin allows you to archive your mails. (2 months ago)
-- [FriendsOfShopware/shopware-cli-action](https://github.com/FriendsOfShopware/shopware-cli-action) - GitHub Action to Install Shopware CLI (2 months ago)
+- [FriendsOfShopware/shopware-cli-action](https://github.com/FriendsOfShopware/shopware-cli-action) - GitHub Action to Install Shopware CLI (3 months ago)
 - [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) - This plugin allows your customers to save the current basket and share it via link. (3 months ago)
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (3 months ago)
 - [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (3 months ago)
