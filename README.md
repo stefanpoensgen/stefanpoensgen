@@ -3,12 +3,12 @@
 #### 👷 Check out what I'm currently working on
 
 - [stefanpoensgen/website](https://github.com/stefanpoensgen/website) - My personal website (1 week ago)
-- [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) - Rector rules for Shopware 6 (4 weeks ago)
+- [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) - Rector rules for Shopware 6 (1 month ago)
 - [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) - This plugin allows you to archive your mails. (2 months ago)
 - [FriendsOfShopware/shopware-cli-action](https://github.com/FriendsOfShopware/shopware-cli-action) - GitHub Action to Install Shopware CLI (3 months ago)
 - [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) - This plugin allows your customers to save the current basket and share it via link. (3 months ago)
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (3 months ago)
-- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (3 months ago)
+- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (4 months ago)
 - [stefanpoensgen/SptecOrderComments](https://github.com/stefanpoensgen/SptecOrderComments) - Adds the ability to store comments to orders in the Shopware Admin. (4 months ago)
 
 #### 🌱 My latest projects
@@ -24,11 +24,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/platform](https://github.com/shopware/platform) ([v6.5.5.2](https://github.com/shopware/platform/releases/tag/v6.5.5.2), 2 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([1.2.1](https://github.com/FriendsOfShopware/FroshTools/releases/tag/1.2.1), 2 days ago) - A collection of useful tools for Shopware 6
+- [shopware/platform](https://github.com/shopware/platform) ([v6.5.5.2](https://github.com/shopware/platform/releases/tag/v6.5.5.2), 3 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([1.2.1](https://github.com/FriendsOfShopware/FroshTools/releases/tag/1.2.1), 3 days ago) - A collection of useful tools for Shopware 6
 - [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) ([2.0.4](https://github.com/FriendsOfShopware/FroshPlatformMailArchive/releases/tag/2.0.4), 2 weeks ago) - This plugin allows you to archive your mails.
 - [FriendsOfShopware/shopware-cli-action](https://github.com/FriendsOfShopware/shopware-cli-action) ([v1.0.2](https://github.com/FriendsOfShopware/shopware-cli-action/releases/tag/v1.0.2), 2 weeks ago) - GitHub Action to Install Shopware CLI
 - [FriendsOfShopware/code-quality-meta](https://github.com/FriendsOfShopware/code-quality-meta) ([0.2.0](https://github.com/FriendsOfShopware/code-quality-meta/releases/tag/0.2.0), 3 weeks ago) - Meta repository for Shopware 6 code quality tools
-- [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) ([0.2.3](https://github.com/FriendsOfShopware/shopware-rector/releases/tag/0.2.3), 4 weeks ago) - Rector rules for Shopware 6
+- [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) ([0.2.3](https://github.com/FriendsOfShopware/shopware-rector/releases/tag/0.2.3), 1 month ago) - Rector rules for Shopware 6
 - [FriendsOfShopware/FroshPlatformTemplateMail](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail) ([2.0.2](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail/releases/tag/2.0.2), 2 months ago) - This plugin allows you to use twig mails in Shopware 6.
 - [FriendsOfShopware/FroshPlatformThumbnailProcessor](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor) ([4.0.0](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor/releases/tag/4.0.0), 2 months ago) - This shopware6 plugin allows you to use variable thumbnails - on the fly.
