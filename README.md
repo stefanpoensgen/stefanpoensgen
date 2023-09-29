@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [FriendsOfShopware/production-docker](https://github.com/FriendsOfShopware/production-docker) - Running Shopware in Docker for Production (4 days ago)
-- [stefanpoensgen/website](https://github.com/stefanpoensgen/website) - My personal website (1 week ago)
+- [FriendsOfShopware/production-docker](https://github.com/FriendsOfShopware/production-docker) - Running Shopware in Docker for Production (5 days ago)
+- [stefanpoensgen/website](https://github.com/stefanpoensgen/website) - My personal website (2 weeks ago)
 - [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) - Rector rules for Shopware 6 (1 month ago)
 - [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) - This plugin allows you to archive your mails. (3 months ago)
 - [FriendsOfShopware/shopware-cli-action](https://github.com/FriendsOfShopware/shopware-cli-action) - GitHub Action to Install Shopware CLI (3 months ago)
