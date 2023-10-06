@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [FriendsOfShopware/production-docker](https://github.com/FriendsOfShopware/production-docker) - Running Shopware in Docker for Production (1 week ago)
-- [stefanpoensgen/website](https://github.com/stefanpoensgen/website) - My personal website (2 weeks ago)
+- [stefanpoensgen/website](https://github.com/stefanpoensgen/website) - My personal website (3 weeks ago)
 - [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) - Rector rules for Shopware 6 (1 month ago)
 - [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) - This plugin allows you to archive your mails. (3 months ago)
 - [FriendsOfShopware/shopware-cli-action](https://github.com/FriendsOfShopware/shopware-cli-action) - GitHub Action to Install Shopware CLI (3 months ago)
@@ -24,9 +24,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/platform](https://github.com/shopware/platform) ([v6.5.6.0](https://github.com/shopware/platform/releases/tag/v6.5.6.0), 1 day ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([1.2.2](https://github.com/FriendsOfShopware/FroshTools/releases/tag/1.2.2), 1 day ago) - A collection of useful tools for Shopware 6
-- [FriendsOfShopware/FroshPlatformThumbnailProcessor](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor) ([4.0.1](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor/releases/tag/4.0.1), 3 days ago) - This shopware6 plugin allows you to use variable thumbnails - on the fly.
+- [shopware/platform](https://github.com/shopware/platform) ([v6.5.6.0](https://github.com/shopware/platform/releases/tag/v6.5.6.0), 2 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([1.2.2](https://github.com/FriendsOfShopware/FroshTools/releases/tag/1.2.2), 2 days ago) - A collection of useful tools for Shopware 6
+- [FriendsOfShopware/FroshPlatformThumbnailProcessor](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor) ([4.0.1](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor/releases/tag/4.0.1), 4 days ago) - This shopware6 plugin allows you to use variable thumbnails - on the fly.
 - [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) ([2.0.4](https://github.com/FriendsOfShopware/FroshPlatformMailArchive/releases/tag/2.0.4), 4 weeks ago) - This plugin allows you to archive your mails.
 - [FriendsOfShopware/shopware-cli-action](https://github.com/FriendsOfShopware/shopware-cli-action) ([v1.0.2](https://github.com/FriendsOfShopware/shopware-cli-action/releases/tag/v1.0.2), 1 month ago) - GitHub Action to Install Shopware CLI
 - [FriendsOfShopware/code-quality-meta](https://github.com/FriendsOfShopware/code-quality-meta) ([0.2.0](https://github.com/FriendsOfShopware/code-quality-meta/releases/tag/0.2.0), 1 month ago) - Meta repository for Shopware 6 code quality tools
