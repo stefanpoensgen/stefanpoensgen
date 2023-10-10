@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) - This plugin allows your customers to save the current basket and share it via link. (today)
+- [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) - This plugin allows your customers to save the current basket and share it via link. (1 day ago)
 - [FriendsOfShopware/production-docker](https://github.com/FriendsOfShopware/production-docker) - Running Shopware in Docker for Production (2 weeks ago)
 - [stefanpoensgen/website](https://github.com/stefanpoensgen/website) - My personal website (3 weeks ago)
 - [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) - Rector rules for Shopware 6 (1 month ago)
@@ -24,9 +24,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) ([1.1.6](https://github.com/FriendsOfShopware/FroshPlatformShareBasket/releases/tag/1.1.6), today) - This plugin allows your customers to save the current basket and share it via link.
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.5.6.0](https://github.com/shopware/shopware/releases/tag/v6.5.6.0), 5 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([1.2.2](https://github.com/FriendsOfShopware/FroshTools/releases/tag/1.2.2), 5 days ago) - A collection of useful tools for Shopware 6
+- [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) ([1.1.6](https://github.com/FriendsOfShopware/FroshPlatformShareBasket/releases/tag/1.1.6), 1 day ago) - This plugin allows your customers to save the current basket and share it via link.
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.5.6.0](https://github.com/shopware/shopware/releases/tag/v6.5.6.0), 6 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([1.2.2](https://github.com/FriendsOfShopware/FroshTools/releases/tag/1.2.2), 6 days ago) - A collection of useful tools for Shopware 6
 - [FriendsOfShopware/FroshPlatformThumbnailProcessor](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor) ([4.0.1](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor/releases/tag/4.0.1), 1 week ago) - This shopware6 plugin allows you to use variable thumbnails - on the fly.
 - [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) ([2.0.4](https://github.com/FriendsOfShopware/FroshPlatformMailArchive/releases/tag/2.0.4), 1 month ago) - This plugin allows you to archive your mails.
 - [FriendsOfShopware/shopware-cli-action](https://github.com/FriendsOfShopware/shopware-cli-action) ([v1.0.2](https://github.com/FriendsOfShopware/shopware-cli-action/releases/tag/v1.0.2), 1 month ago) - GitHub Action to Install Shopware CLI
