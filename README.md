@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) - This plugin allows your customers to save the current basket and share it via link. (4 days ago)
+- [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) - This plugin allows your customers to save the current basket and share it via link. (5 days ago)
 - [shopware/docker](https://github.com/shopware/docker) - Running Shopware in Docker for Production (2 weeks ago)
 - [stefanpoensgen/website](https://github.com/stefanpoensgen/website) - My personal website (4 weeks ago)
 - [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) - Rector rules for Shopware 6 (1 month ago)
@@ -24,7 +24,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) ([1.1.6](https://github.com/FriendsOfShopware/FroshPlatformShareBasket/releases/tag/1.1.6), 4 days ago) - This plugin allows your customers to save the current basket and share it via link.
+- [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) ([1.1.6](https://github.com/FriendsOfShopware/FroshPlatformShareBasket/releases/tag/1.1.6), 5 days ago) - This plugin allows your customers to save the current basket and share it via link.
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.5.6.0](https://github.com/shopware/shopware/releases/tag/v6.5.6.0), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([1.2.2](https://github.com/FriendsOfShopware/FroshTools/releases/tag/1.2.2), 1 week ago) - A collection of useful tools for Shopware 6
 - [FriendsOfShopware/FroshPlatformThumbnailProcessor](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor) ([4.0.1](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor/releases/tag/4.0.1), 1 week ago) - This shopware6 plugin allows you to use variable thumbnails - on the fly.
