@@ -24,7 +24,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) ([2.0.6](https://github.com/FriendsOfShopware/FroshPlatformMailArchive/releases/tag/2.0.6), today) - This plugin allows you to archive your mails.
+- [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) ([2.0.6](https://github.com/FriendsOfShopware/FroshPlatformMailArchive/releases/tag/2.0.6), 1 day ago) - This plugin allows you to archive your mails.
 - [FriendsOfShopware/shopware-cli-action](https://github.com/FriendsOfShopware/shopware-cli-action) ([v1.0.3](https://github.com/FriendsOfShopware/shopware-cli-action/releases/tag/v1.0.3), 1 week ago) - GitHub Action to Install Shopware CLI
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([1.2.3](https://github.com/FriendsOfShopware/FroshTools/releases/tag/1.2.3), 1 week ago) - A collection of useful tools for Shopware 6
 - [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) ([1.1.6](https://github.com/FriendsOfShopware/FroshPlatformShareBasket/releases/tag/1.1.6), 2 weeks ago) - This plugin allows your customers to save the current basket and share it via link.
