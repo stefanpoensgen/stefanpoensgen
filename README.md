@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (3 weeks ago)
-- [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) - This plugin allows your customers to save the current basket and share it via link. (4 weeks ago)
+- [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) - This plugin allows your customers to save the current basket and share it via link. (1 month ago)
 - [shopware/docker](https://github.com/shopware/docker) - Running Shopware in Docker for Production (1 month ago)
 - [stefanpoensgen/website](https://github.com/stefanpoensgen/website) - My personal website (1 month ago)
 - [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) - Rector rules for Shopware 6 (2 months ago)
@@ -28,7 +28,7 @@
 - [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) ([2.0.6](https://github.com/FriendsOfShopware/FroshPlatformMailArchive/releases/tag/2.0.6), 1 week ago) - This plugin allows you to archive your mails.
 - [FriendsOfShopware/shopware-cli-action](https://github.com/FriendsOfShopware/shopware-cli-action) ([v1.0.3](https://github.com/FriendsOfShopware/shopware-cli-action/releases/tag/v1.0.3), 2 weeks ago) - GitHub Action to Install Shopware CLI
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([1.2.3](https://github.com/FriendsOfShopware/FroshTools/releases/tag/1.2.3), 2 weeks ago) - A collection of useful tools for Shopware 6
-- [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) ([1.1.6](https://github.com/FriendsOfShopware/FroshPlatformShareBasket/releases/tag/1.1.6), 4 weeks ago) - This plugin allows your customers to save the current basket and share it via link.
+- [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) ([1.1.6](https://github.com/FriendsOfShopware/FroshPlatformShareBasket/releases/tag/1.1.6), 1 month ago) - This plugin allows your customers to save the current basket and share it via link.
 - [FriendsOfShopware/FroshPlatformThumbnailProcessor](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor) ([4.0.1](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor/releases/tag/4.0.1), 1 month ago) - This shopware6 plugin allows you to use variable thumbnails - on the fly.
 - [FriendsOfShopware/code-quality-meta](https://github.com/FriendsOfShopware/code-quality-meta) ([0.2.0](https://github.com/FriendsOfShopware/code-quality-meta/releases/tag/0.2.0), 2 months ago) - Meta repository for Shopware 6 code quality tools
 - [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) ([0.2.3](https://github.com/FriendsOfShopware/shopware-rector/releases/tag/0.2.3), 2 months ago) - Rector rules for Shopware 6
