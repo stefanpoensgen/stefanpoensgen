@@ -24,7 +24,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.5.7.1](https://github.com/shopware/shopware/releases/tag/v6.5.7.1), 3 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.5.7.2](https://github.com/shopware/shopware/releases/tag/v6.5.7.2), today) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) ([0.2.4](https://github.com/FriendsOfShopware/shopware-rector/releases/tag/0.2.4), 1 week ago) - Rector rules for Shopware 6
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([1.2.4](https://github.com/FriendsOfShopware/FroshTools/releases/tag/1.2.4), 1 week ago) - A collection of useful tools for Shopware 6
 - [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) ([2.0.6](https://github.com/FriendsOfShopware/FroshPlatformMailArchive/releases/tag/2.0.6), 3 weeks ago) - This plugin allows you to archive your mails.
