@@ -32,3 +32,4 @@
 - [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) ([1.1.6](https://github.com/FriendsOfShopware/FroshPlatformShareBasket/releases/tag/1.1.6), 1 month ago) - This plugin allows your customers to save the current basket and share it via link.
 - [FriendsOfShopware/FroshPlatformThumbnailProcessor](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor) ([4.0.1](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor/releases/tag/4.0.1), 2 months ago) - This shopware6 plugin allows you to use variable thumbnails - on the fly.
 - [FriendsOfShopware/code-quality-meta](https://github.com/FriendsOfShopware/code-quality-meta) ([0.2.0](https://github.com/FriendsOfShopware/code-quality-meta/releases/tag/0.2.0), 3 months ago) - Meta repository for Shopware 6 code quality tools
+
