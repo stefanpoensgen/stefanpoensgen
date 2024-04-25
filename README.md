@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [stefanpoensgen/website](https://github.com/stefanpoensgen/website) - My personal website (6 days ago)
+- [stefanpoensgen/website](https://github.com/stefanpoensgen/website) - My personal website (1 week ago)
 - [tinect/TinectRedirects](https://github.com/tinect/TinectRedirects) - 301/302 redirect management plugin for Shopware 6 💙 Just if it would fail into NOT_FOUND (1 week ago)
 - [FriendsOfShopware/shopware-sentry-bundle](https://github.com/FriendsOfShopware/shopware-sentry-bundle) -  (1 week ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (2 weeks ago)
@@ -24,7 +24,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.1.1](https://github.com/shopware/shopware/releases/tag/v6.6.1.1), 6 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.1.1](https://github.com/shopware/shopware/releases/tag/v6.6.1.1), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [FriendsOfShopware/FroshLazySizes](https://github.com/FriendsOfShopware/FroshLazySizes) ([3.0.0](https://github.com/FriendsOfShopware/FroshLazySizes/releases/tag/3.0.0), 1 week ago) - This plugin allows you to use lazy loading for your images.
 - [tinect/TinectRedirects](https://github.com/tinect/TinectRedirects) ([2.1.1](https://github.com/tinect/TinectRedirects/releases/tag/2.1.1), 1 week ago) - 301/302 redirect management plugin for Shopware 6 💙 Just if it would fail into NOT_FOUND
 - [FriendsOfShopware/shopware-sentry-bundle](https://github.com/FriendsOfShopware/shopware-sentry-bundle) ([0.1.6](https://github.com/FriendsOfShopware/shopware-sentry-bundle/releases/tag/0.1.6), 1 week ago) - 
