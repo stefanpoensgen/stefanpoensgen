@@ -6,7 +6,7 @@
 - [tinect/TinectRedirects](https://github.com/tinect/TinectRedirects) - 301/302 redirect management plugin for Shopware 6 💙 Just if it would fail into NOT_FOUND (1 week ago)
 - [FriendsOfShopware/shopware-sentry-bundle](https://github.com/FriendsOfShopware/shopware-sentry-bundle) -  (2 weeks ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (2 weeks ago)
-- [stefanpoensgen/SptecOrderComments](https://github.com/stefanpoensgen/SptecOrderComments) - Adds the ability to store comments to orders in the Shopware Admin. (2 weeks ago)
+- [stefanpoensgen/SptecOrderComments](https://github.com/stefanpoensgen/SptecOrderComments) - Adds the ability to store comments to orders in the Shopware Admin. (3 weeks ago)
 - [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) - This plugin allows your customers to save the current basket and share it via link. (1 month ago)
 - [stefanpoensgen/windows-dev-environment](https://github.com/stefanpoensgen/windows-dev-environment) -  (1 month ago)
 - [stefanpoensgen/mjml-bin](https://github.com/stefanpoensgen/mjml-bin) -  (1 month ago)
@@ -28,7 +28,7 @@
 - [FriendsOfShopware/FroshLazySizes](https://github.com/FriendsOfShopware/FroshLazySizes) ([3.0.0](https://github.com/FriendsOfShopware/FroshLazySizes/releases/tag/3.0.0), 1 week ago) - This plugin allows you to use lazy loading for your images.
 - [tinect/TinectRedirects](https://github.com/tinect/TinectRedirects) ([2.1.1](https://github.com/tinect/TinectRedirects/releases/tag/2.1.1), 1 week ago) - 301/302 redirect management plugin for Shopware 6 💙 Just if it would fail into NOT_FOUND
 - [FriendsOfShopware/shopware-sentry-bundle](https://github.com/FriendsOfShopware/shopware-sentry-bundle) ([0.1.6](https://github.com/FriendsOfShopware/shopware-sentry-bundle/releases/tag/0.1.6), 2 weeks ago) - 
-- [stefanpoensgen/SptecOrderComments](https://github.com/stefanpoensgen/SptecOrderComments) ([3.0.0](https://github.com/stefanpoensgen/SptecOrderComments/releases/tag/3.0.0), 2 weeks ago) - Adds the ability to store comments to orders in the Shopware Admin.
+- [stefanpoensgen/SptecOrderComments](https://github.com/stefanpoensgen/SptecOrderComments) ([3.0.0](https://github.com/stefanpoensgen/SptecOrderComments/releases/tag/3.0.0), 3 weeks ago) - Adds the ability to store comments to orders in the Shopware Admin.
 - [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) ([1.1.7](https://github.com/FriendsOfShopware/FroshPlatformShareBasket/releases/tag/1.1.7), 1 month ago) - This plugin allows your customers to save the current basket and share it via link.
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([1.3.3](https://github.com/FriendsOfShopware/FroshTools/releases/tag/1.3.3), 2 months ago) - A collection of useful tools for Shopware 6
 - [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) ([3.0.0](https://github.com/FriendsOfShopware/FroshPlatformMailArchive/releases/tag/3.0.0), 2 months ago) - This plugin allows you to archive your mails.
