@@ -24,9 +24,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [tinect/TinectRedirects](https://github.com/tinect/TinectRedirects) ([1.5.0](https://github.com/tinect/TinectRedirects/releases/tag/1.5.0), 1 day ago) - 301/302 redirect management plugin for Shopware 6 💙 Just if it would fail into NOT_FOUND
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.1.1](https://github.com/shopware/shopware/releases/tag/v6.6.1.1), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [FriendsOfShopware/FroshLazySizes](https://github.com/FriendsOfShopware/FroshLazySizes) ([3.0.0](https://github.com/FriendsOfShopware/FroshLazySizes/releases/tag/3.0.0), 1 week ago) - This plugin allows you to use lazy loading for your images.
-- [tinect/TinectRedirects](https://github.com/tinect/TinectRedirects) ([2.1.1](https://github.com/tinect/TinectRedirects/releases/tag/2.1.1), 1 week ago) - 301/302 redirect management plugin for Shopware 6 💙 Just if it would fail into NOT_FOUND
 - [FriendsOfShopware/shopware-sentry-bundle](https://github.com/FriendsOfShopware/shopware-sentry-bundle) ([0.1.6](https://github.com/FriendsOfShopware/shopware-sentry-bundle/releases/tag/0.1.6), 2 weeks ago) - 
 - [stefanpoensgen/SptecOrderComments](https://github.com/stefanpoensgen/SptecOrderComments) ([3.0.0](https://github.com/stefanpoensgen/SptecOrderComments/releases/tag/3.0.0), 3 weeks ago) - Adds the ability to store comments to orders in the Shopware Admin.
 - [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) ([1.1.7](https://github.com/FriendsOfShopware/FroshPlatformShareBasket/releases/tag/1.1.7), 1 month ago) - This plugin allows your customers to save the current basket and share it via link.
