@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [stefanpoensgen/website](https://github.com/stefanpoensgen/website) - My personal website (1 week ago)
+- [stefanpoensgen/website](https://github.com/stefanpoensgen/website) - My personal website (1 day ago)
 - [tinect/TinectRedirects](https://github.com/tinect/TinectRedirects) - 301/302 redirect management plugin for Shopware 6 💙 Just if it would fail into NOT_FOUND (2 weeks ago)
 - [FriendsOfShopware/shopware-sentry-bundle](https://github.com/FriendsOfShopware/shopware-sentry-bundle) -  (2 weeks ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (3 weeks ago)
@@ -24,8 +24,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.1.2](https://github.com/shopware/shopware/releases/tag/v6.6.1.2), 2 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
-- [tinect/TinectRedirects](https://github.com/tinect/TinectRedirects) ([1.5.0](https://github.com/tinect/TinectRedirects/releases/tag/1.5.0), 4 days ago) - 301/302 redirect management plugin for Shopware 6 💙 Just if it would fail into NOT_FOUND
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.1.2](https://github.com/shopware/shopware/releases/tag/v6.6.1.2), 3 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [tinect/TinectRedirects](https://github.com/tinect/TinectRedirects) ([1.5.0](https://github.com/tinect/TinectRedirects/releases/tag/1.5.0), 5 days ago) - 301/302 redirect management plugin for Shopware 6 💙 Just if it would fail into NOT_FOUND
 - [FriendsOfShopware/FroshLazySizes](https://github.com/FriendsOfShopware/FroshLazySizes) ([3.0.0](https://github.com/FriendsOfShopware/FroshLazySizes/releases/tag/3.0.0), 2 weeks ago) - This plugin allows you to use lazy loading for your images.
 - [FriendsOfShopware/shopware-sentry-bundle](https://github.com/FriendsOfShopware/shopware-sentry-bundle) ([0.1.6](https://github.com/FriendsOfShopware/shopware-sentry-bundle/releases/tag/0.1.6), 2 weeks ago) - 
 - [stefanpoensgen/SptecOrderComments](https://github.com/stefanpoensgen/SptecOrderComments) ([3.0.0](https://github.com/stefanpoensgen/SptecOrderComments/releases/tag/3.0.0), 3 weeks ago) - Adds the ability to store comments to orders in the Shopware Admin.
