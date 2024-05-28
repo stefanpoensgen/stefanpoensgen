@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [FriendsOfShopware/FroshTypesense](https://github.com/FriendsOfShopware/FroshTypesense) - Typesense (1 week ago)
-- [stefanpoensgen/windows-dev-environment](https://github.com/stefanpoensgen/windows-dev-environment) -  (1 week ago)
-- [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) - This plugin allows your customers to save the current basket and share it via link. (2 weeks ago)
+- [FriendsOfShopware/FroshTypesense](https://github.com/FriendsOfShopware/FroshTypesense) - Typesense (2 weeks ago)
+- [stefanpoensgen/windows-dev-environment](https://github.com/stefanpoensgen/windows-dev-environment) -  (2 weeks ago)
 - [stefanpoensgen/SptecOrderComments](https://github.com/stefanpoensgen/SptecOrderComments) - Adds the ability to store comments to orders in the Shopware Admin. (2 weeks ago)
+- [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) - This plugin allows your customers to save the current basket and share it via link. (2 weeks ago)
 - [stefanpoensgen/website](https://github.com/stefanpoensgen/website) - My personal website (3 weeks ago)
 - [tinect/TinectRedirects](https://github.com/tinect/TinectRedirects) - 301/302 redirect management plugin for Shopware 6 💙 Just if it would fail into NOT_FOUND (1 month ago)
 - [FriendsOfShopware/shopware-sentry-bundle](https://github.com/FriendsOfShopware/shopware-sentry-bundle) -  (1 month ago)
