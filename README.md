@@ -24,7 +24,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [MelvinAchterhuis/MelvZeroMarginBlocks](https://github.com/MelvinAchterhuis/MelvZeroMarginBlocks) ([3.0.0](https://github.com/MelvinAchterhuis/MelvZeroMarginBlocks/releases/tag/3.0.0), 3 days ago) - 
+- [MelvinAchterhuis/MelvZeroMarginBlocks](https://github.com/MelvinAchterhuis/MelvZeroMarginBlocks) ([3.0.0](https://github.com/MelvinAchterhuis/MelvZeroMarginBlocks/releases/tag/3.0.0), 4 days ago) - 
 - [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) ([0.4.0](https://github.com/FriendsOfShopware/shopware-rector/releases/tag/0.4.0), 2 weeks ago) - Rector rules for Shopware 6
 - [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) ([0.3.4](https://github.com/FriendsOfShopware/FroshPlatformMailArchive/releases/tag/0.3.4), 2 weeks ago) - This plugin allows you to archive your mails.
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.5.8.10](https://github.com/shopware/shopware/releases/tag/v6.5.8.10), 2 weeks ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
