@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [stefanpoensgen/mjml-bin](https://github.com/stefanpoensgen/mjml-bin) -  (1 day ago)
+- [stefanpoensgen/mjml-bin](https://github.com/stefanpoensgen/mjml-bin) -  (2 days ago)
 - [stefanpoensgen/website](https://github.com/stefanpoensgen/website) - My personal website (2 weeks ago)
-- [FriendsOfShopware/FroshTypesense](https://github.com/FriendsOfShopware/FroshTypesense) - Typesense (1 month ago)
 - [stefanpoensgen/windows-dev-environment](https://github.com/stefanpoensgen/windows-dev-environment) -  (1 month ago)
-- [stefanpoensgen/SptecOrderComments](https://github.com/stefanpoensgen/SptecOrderComments) - Adds the ability to store comments to orders in the Shopware Admin. (2 months ago)
+- [FriendsOfShopware/FroshTypesense](https://github.com/FriendsOfShopware/FroshTypesense) - Typesense (1 month ago)
 - [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) - This plugin allows your customers to save the current basket and share it via link. (2 months ago)
+- [stefanpoensgen/SptecOrderComments](https://github.com/stefanpoensgen/SptecOrderComments) - Adds the ability to store comments to orders in the Shopware Admin. (2 months ago)
 - [tinect/TinectRedirects](https://github.com/tinect/TinectRedirects) - 301/302 redirect management plugin for Shopware 6 💙 Just if it would fail into NOT_FOUND (2 months ago)
 - [FriendsOfShopware/shopware-sentry-bundle](https://github.com/FriendsOfShopware/shopware-sentry-bundle) -  (2 months ago)
 
@@ -24,7 +24,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [tinect/TinectRedirects](https://github.com/tinect/TinectRedirects) ([2.4.0](https://github.com/tinect/TinectRedirects/releases/tag/2.4.0), 1 day ago) - 301/302 redirect management plugin for Shopware 6 💙 Just if it would fail into NOT_FOUND
+- [tinect/TinectRedirects](https://github.com/tinect/TinectRedirects) ([2.4.0](https://github.com/tinect/TinectRedirects/releases/tag/2.4.0), 2 days ago) - 301/302 redirect management plugin for Shopware 6 💙 Just if it would fail into NOT_FOUND
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.4.0](https://github.com/shopware/shopware/releases/tag/v6.6.4.0), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [MelvinAchterhuis/MelvZeroMarginBlocks](https://github.com/MelvinAchterhuis/MelvZeroMarginBlocks) ([3.0.0](https://github.com/MelvinAchterhuis/MelvZeroMarginBlocks/releases/tag/3.0.0), 1 month ago) - 
 - [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) ([0.4.0](https://github.com/FriendsOfShopware/shopware-rector/releases/tag/0.4.0), 1 month ago) - Rector rules for Shopware 6
