@@ -24,10 +24,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.4.1](https://github.com/shopware/shopware/releases/tag/v6.6.4.1), 1 day ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.4.1](https://github.com/shopware/shopware/releases/tag/v6.6.4.1), 2 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [tinect/TinectRedirects](https://github.com/tinect/TinectRedirects) ([2.4.0](https://github.com/tinect/TinectRedirects/releases/tag/2.4.0), 1 week ago) - 301/302 redirect management plugin for Shopware 6 💙 Just if it would fail into NOT_FOUND
 - [MelvinAchterhuis/MelvZeroMarginBlocks](https://github.com/MelvinAchterhuis/MelvZeroMarginBlocks) ([3.0.0](https://github.com/MelvinAchterhuis/MelvZeroMarginBlocks/releases/tag/3.0.0), 1 month ago) - 
-- [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) ([0.4.0](https://github.com/FriendsOfShopware/shopware-rector/releases/tag/0.4.0), 1 month ago) - Rector rules for Shopware 6
+- [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) ([0.4.0](https://github.com/FriendsOfShopware/shopware-rector/releases/tag/0.4.0), 2 months ago) - Rector rules for Shopware 6
 - [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) ([0.3.4](https://github.com/FriendsOfShopware/FroshPlatformMailArchive/releases/tag/0.3.4), 2 months ago) - This plugin allows you to archive your mails.
 - [stefanpoensgen/SptecOrderComments](https://github.com/stefanpoensgen/SptecOrderComments) ([3.0.1](https://github.com/stefanpoensgen/SptecOrderComments/releases/tag/3.0.1), 2 months ago) - Adds the ability to store comments to orders in the Shopware Admin.
 - [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) ([2.0.3](https://github.com/FriendsOfShopware/FroshPlatformShareBasket/releases/tag/2.0.3), 2 months ago) - This plugin allows your customers to save the current basket and share it via link.
