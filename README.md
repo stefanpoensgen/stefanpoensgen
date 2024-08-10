@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [stefanpoensgen/windows-dev-environment](https://github.com/stefanpoensgen/windows-dev-environment) -  (1 day ago)
 - [stefanpoensgen/mjml-bin](https://github.com/stefanpoensgen/mjml-bin) -  (1 month ago)
 - [stefanpoensgen/website](https://github.com/stefanpoensgen/website) - My personal website (1 month ago)
 - [FriendsOfShopware/FroshTypesense](https://github.com/FriendsOfShopware/FroshTypesense) - Typesense (2 months ago)
-- [stefanpoensgen/windows-dev-environment](https://github.com/stefanpoensgen/windows-dev-environment) -  (2 months ago)
-- [stefanpoensgen/SptecOrderComments](https://github.com/stefanpoensgen/SptecOrderComments) - Adds the ability to store comments to orders in the Shopware Admin. (3 months ago)
 - [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) - This plugin allows your customers to save the current basket and share it via link. (3 months ago)
+- [stefanpoensgen/SptecOrderComments](https://github.com/stefanpoensgen/SptecOrderComments) - Adds the ability to store comments to orders in the Shopware Admin. (3 months ago)
 - [tinect/TinectRedirects](https://github.com/tinect/TinectRedirects) - 301/302 redirect management plugin for Shopware 6 💙 Just if it would fail into NOT_FOUND (3 months ago)
-- [FriendsOfShopware/shopware-sentry-bundle](https://github.com/FriendsOfShopware/shopware-sentry-bundle) -  (3 months ago)
+- [FriendsOfShopware/shopware-sentry-bundle](https://github.com/FriendsOfShopware/shopware-sentry-bundle) -  (4 months ago)
 
 #### 🌱 My latest projects
 
@@ -24,7 +24,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.5.8.13](https://github.com/shopware/shopware/releases/tag/v6.5.8.13), 1 day ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.5.8.13](https://github.com/shopware/shopware/releases/tag/v6.5.8.13), 2 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([1.3.4](https://github.com/FriendsOfShopware/FroshTools/releases/tag/1.3.4), 2 weeks ago) - A collection of useful tools for Shopware 6
 - [tinect/TinectRedirects](https://github.com/tinect/TinectRedirects) ([2.4.0](https://github.com/tinect/TinectRedirects/releases/tag/2.4.0), 1 month ago) - 301/302 redirect management plugin for Shopware 6 💙 Just if it would fail into NOT_FOUND
 - [MelvinAchterhuis/MelvZeroMarginBlocks](https://github.com/MelvinAchterhuis/MelvZeroMarginBlocks) ([3.0.0](https://github.com/MelvinAchterhuis/MelvZeroMarginBlocks/releases/tag/3.0.0), 2 months ago) - 
