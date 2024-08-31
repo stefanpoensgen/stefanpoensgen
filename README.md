@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [stefanpoensgen/windows-dev-environment](https://github.com/stefanpoensgen/windows-dev-environment) -  (2 weeks ago)
+- [stefanpoensgen/windows-dev-environment](https://github.com/stefanpoensgen/windows-dev-environment) -  (3 weeks ago)
 - [stefanpoensgen/mjml-bin](https://github.com/stefanpoensgen/mjml-bin) -  (1 month ago)
 - [stefanpoensgen/website](https://github.com/stefanpoensgen/website) - My personal website (2 months ago)
 - [FriendsOfShopware/FroshTypesense](https://github.com/FriendsOfShopware/FroshTypesense) - Typesense (3 months ago)
@@ -24,7 +24,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) ([3.1.0](https://github.com/FriendsOfShopware/FroshPlatformMailArchive/releases/tag/3.1.0), 3 days ago) - This plugin allows you to archive your mails.
+- [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) ([3.1.0](https://github.com/FriendsOfShopware/FroshPlatformMailArchive/releases/tag/3.1.0), 4 days ago) - This plugin allows you to archive your mails.
 - [FriendsOfShopware/FroshLazySizes](https://github.com/FriendsOfShopware/FroshLazySizes) ([3.1.0](https://github.com/FriendsOfShopware/FroshLazySizes/releases/tag/3.1.0), 1 week ago) - This plugin allows you to use lazy loading for your images.
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([2.3.0](https://github.com/FriendsOfShopware/FroshTools/releases/tag/2.3.0), 2 weeks ago) - A collection of useful tools for Shopware 6
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.5.8.13](https://github.com/shopware/shopware/releases/tag/v6.5.8.13), 3 weeks ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
