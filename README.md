@@ -24,8 +24,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [tinect/TinectRedirects](https://github.com/tinect/TinectRedirects) ([2.5.0](https://github.com/tinect/TinectRedirects/releases/tag/2.5.0), 6 days ago) - 301/302 redirect management plugin for Shopware 6 💙 Just if it would fail into NOT_FOUND
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.6.1](https://github.com/shopware/shopware/releases/tag/v6.6.6.1), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [tinect/TinectRedirects](https://github.com/tinect/TinectRedirects) ([2.5.0](https://github.com/tinect/TinectRedirects/releases/tag/2.5.0), 1 week ago) - 301/302 redirect management plugin for Shopware 6 💙 Just if it would fail into NOT_FOUND
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.6.1](https://github.com/shopware/shopware/releases/tag/v6.6.6.1), 2 weeks ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) ([3.1.0](https://github.com/FriendsOfShopware/FroshPlatformMailArchive/releases/tag/3.1.0), 1 month ago) - This plugin allows you to archive your mails.
 - [FriendsOfShopware/FroshLazySizes](https://github.com/FriendsOfShopware/FroshLazySizes) ([3.1.0](https://github.com/FriendsOfShopware/FroshLazySizes/releases/tag/3.1.0), 1 month ago) - This plugin allows you to use lazy loading for your images.
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([2.3.0](https://github.com/FriendsOfShopware/FroshTools/releases/tag/2.3.0), 1 month ago) - A collection of useful tools for Shopware 6
