@@ -24,8 +24,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.7.0](https://github.com/shopware/shopware/releases/tag/v6.6.7.0), 5 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
-- [FriendsOfShopware/shopware-sentry-bundle](https://github.com/FriendsOfShopware/shopware-sentry-bundle) ([0.2.0](https://github.com/FriendsOfShopware/shopware-sentry-bundle/releases/tag/0.2.0), 5 days ago) - 
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.7.0](https://github.com/shopware/shopware/releases/tag/v6.6.7.0), 6 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [FriendsOfShopware/shopware-sentry-bundle](https://github.com/FriendsOfShopware/shopware-sentry-bundle) ([0.2.0](https://github.com/FriendsOfShopware/shopware-sentry-bundle/releases/tag/0.2.0), 6 days ago) - 
 - [tinect/TinectRedirects](https://github.com/tinect/TinectRedirects) ([2.5.0](https://github.com/tinect/TinectRedirects/releases/tag/2.5.0), 3 weeks ago) - 301/302 redirect management plugin for Shopware 6 💙 Just if it would fail into NOT_FOUND
 - [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) ([3.1.0](https://github.com/FriendsOfShopware/FroshPlatformMailArchive/releases/tag/3.1.0), 1 month ago) - This plugin allows you to archive your mails.
 - [FriendsOfShopware/FroshLazySizes](https://github.com/FriendsOfShopware/FroshLazySizes) ([3.1.0](https://github.com/FriendsOfShopware/FroshLazySizes/releases/tag/3.1.0), 2 months ago) - This plugin allows you to use lazy loading for your images.
