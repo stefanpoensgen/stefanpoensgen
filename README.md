@@ -24,11 +24,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([2.4.1](https://github.com/FriendsOfShopware/FroshTools/releases/tag/2.4.1), 3 days ago) - A collection of useful tools for Shopware 6
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.8.2](https://github.com/shopware/shopware/releases/tag/v6.6.8.2), 4 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([2.4.2](https://github.com/FriendsOfShopware/FroshTools/releases/tag/2.4.2), 1 day ago) - A collection of useful tools for Shopware 6
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.8.2](https://github.com/shopware/shopware/releases/tag/v6.6.8.2), 5 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) ([2.1.0](https://github.com/FriendsOfShopware/FroshPlatformShareBasket/releases/tag/2.1.0), 1 week ago) - This plugin allows your customers to save the current basket and share it via link.
-- [tinect/TinectRedirects](https://github.com/tinect/TinectRedirects) ([2.6.0](https://github.com/tinect/TinectRedirects/releases/tag/2.6.0), 2 weeks ago) - 301/302 redirect management plugin for Shopware 6 💙 Just if it would fail into NOT_FOUND
+- [tinect/TinectRedirects](https://github.com/tinect/TinectRedirects) ([2.6.0](https://github.com/tinect/TinectRedirects/releases/tag/2.6.0), 3 weeks ago) - 301/302 redirect management plugin for Shopware 6 💙 Just if it would fail into NOT_FOUND
 - [FriendsOfShopware/shopware-sentry-bundle](https://github.com/FriendsOfShopware/shopware-sentry-bundle) ([0.2.0](https://github.com/FriendsOfShopware/shopware-sentry-bundle/releases/tag/0.2.0), 1 month ago) - 
 - [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) ([3.1.0](https://github.com/FriendsOfShopware/FroshPlatformMailArchive/releases/tag/3.1.0), 2 months ago) - This plugin allows you to archive your mails.
-- [FriendsOfShopware/FroshLazySizes](https://github.com/FriendsOfShopware/FroshLazySizes) ([3.1.0](https://github.com/FriendsOfShopware/FroshLazySizes/releases/tag/3.1.0), 2 months ago) - This plugin allows you to use lazy loading for your images.
+- [FriendsOfShopware/FroshLazySizes](https://github.com/FriendsOfShopware/FroshLazySizes) ([3.1.0](https://github.com/FriendsOfShopware/FroshLazySizes/releases/tag/3.1.0), 3 months ago) - This plugin allows you to use lazy loading for your images.
 - [MelvinAchterhuis/MelvZeroMarginBlocks](https://github.com/MelvinAchterhuis/MelvZeroMarginBlocks) ([3.0.0](https://github.com/MelvinAchterhuis/MelvZeroMarginBlocks/releases/tag/3.0.0), 5 months ago) - 
