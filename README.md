@@ -6,7 +6,7 @@
 - [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) - This plugin allows your customers to save the current basket and share it via link. (1 month ago)
 - [stefanpoensgen/windows-dev-environment](https://github.com/stefanpoensgen/windows-dev-environment) -  (3 months ago)
 - [shopware/recipes](https://github.com/shopware/recipes) - Flex Recipes (3 months ago)
-- [stefanpoensgen/mjml-bin](https://github.com/stefanpoensgen/mjml-bin) -  (5 months ago)
+- [stefanpoensgen/mjml-bin](https://github.com/stefanpoensgen/mjml-bin) -  (6 months ago)
 - [FriendsOfShopware/FroshTypesense](https://github.com/FriendsOfShopware/FroshTypesense) - Typesense (7 months ago)
 - [stefanpoensgen/SptecOrderComments](https://github.com/stefanpoensgen/SptecOrderComments) - Adds the ability to store comments to orders in the Shopware Admin. (7 months ago)
 - [tinect/TinectRedirects](https://github.com/tinect/TinectRedirects) - 301/302 redirect management plugin for Shopware 6 💙 Just if it would fail into NOT_FOUND (8 months ago)
