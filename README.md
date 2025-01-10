@@ -9,7 +9,7 @@
 - [stefanpoensgen/mjml-bin](https://github.com/stefanpoensgen/mjml-bin) -  (6 months ago)
 - [FriendsOfShopware/FroshTypesense](https://github.com/FriendsOfShopware/FroshTypesense) - Typesense (8 months ago)
 - [stefanpoensgen/SptecOrderComments](https://github.com/stefanpoensgen/SptecOrderComments) - Adds the ability to store comments to orders in the Shopware Admin. (8 months ago)
-- [tinect/TinectRedirects](https://github.com/tinect/TinectRedirects) - 301/302 redirect management plugin for Shopware 6 💙 Just if it would fail into NOT_FOUND (8 months ago)
+- [tinect/TinectRedirects](https://github.com/tinect/TinectRedirects) - 301/302 redirect management plugin for Shopware 6 💙 Just if it would fail into NOT_FOUND (9 months ago)
 
 #### 🌱 My latest projects
 
@@ -24,7 +24,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([2.5.0](https://github.com/FriendsOfShopware/FroshTools/releases/tag/2.5.0), 1 day ago) - A collection of useful tools for Shopware 6
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([1.4.0](https://github.com/FriendsOfShopware/FroshTools/releases/tag/1.4.0), 1 day ago) - A collection of useful tools for Shopware 6
 - [FriendsOfShopware/shopware-sentry-bundle](https://github.com/FriendsOfShopware/shopware-sentry-bundle) ([0.2.1](https://github.com/FriendsOfShopware/shopware-sentry-bundle/releases/tag/0.2.1), 2 weeks ago) - 
 - [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) ([3.2.0](https://github.com/FriendsOfShopware/FroshPlatformMailArchive/releases/tag/3.2.0), 1 month ago) - This plugin allows you to archive your mails.
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.9.0](https://github.com/shopware/shopware/releases/tag/v6.6.9.0), 1 month ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
