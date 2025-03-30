@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (2 days ago)
+- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (3 days ago)
 - [stefanpoensgen/mjml-bin](https://github.com/stefanpoensgen/mjml-bin) -  (1 week ago)
 - [stefanpoensgen/website](https://github.com/stefanpoensgen/website) - My personal website (1 month ago)
 - [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) - This plugin allows your customers to save the current basket and share it via link. (4 months ago)
@@ -24,7 +24,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.0.0-rc1](https://github.com/shopware/shopware/releases/tag/v6.7.0.0-rc1), 5 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.0.0-rc1](https://github.com/shopware/shopware/releases/tag/v6.7.0.0-rc1), 6 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [tinect/TinectRedirects](https://github.com/tinect/TinectRedirects) ([3.0.0](https://github.com/tinect/TinectRedirects/releases/tag/3.0.0), 3 weeks ago) - 301/302 redirect management plugin for Shopware 6 💙 Just if it would fail into NOT_FOUND
 - [FriendsOfShopware/shopware-sentry-bundle](https://github.com/FriendsOfShopware/shopware-sentry-bundle) ([0.2.1](https://github.com/FriendsOfShopware/shopware-sentry-bundle/releases/tag/0.2.1), 3 months ago) - 
 - [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) ([2.1.0](https://github.com/FriendsOfShopware/FroshPlatformShareBasket/releases/tag/2.1.0), 4 months ago) - This plugin allows your customers to save the current basket and share it via link.
