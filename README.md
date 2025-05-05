@@ -6,10 +6,10 @@
 - [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (1 month ago)
 - [stefanpoensgen/mjml-bin](https://github.com/stefanpoensgen/mjml-bin) -  (1 month ago)
 - [stefanpoensgen/website](https://github.com/stefanpoensgen/website) - My personal website (2 months ago)
-- [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) - This plugin allows your customers to save the current basket and share it via link. (5 months ago)
+- [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) - This plugin allows your customers to save the current basket and share it via link. (6 months ago)
 - [shopware/recipes](https://github.com/shopware/recipes) - Flex Recipes (7 months ago)
 - [FriendsOfShopware/FroshTypesense](https://github.com/FriendsOfShopware/FroshTypesense) - Typesense (11 months ago)
-- [stefanpoensgen/SptecOrderComments](https://github.com/stefanpoensgen/SptecOrderComments) - Adds the ability to store comments to orders in the Shopware Admin. (11 months ago)
+- [stefanpoensgen/SptecOrderComments](https://github.com/stefanpoensgen/SptecOrderComments) - Adds the ability to store comments to orders in the Shopware Admin. (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -24,6 +24,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.0.0-rc3](https://github.com/shopware/shopware/releases/tag/v6.7.0.0-rc3), 5 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
-- [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) ([2.1.0](https://github.com/FriendsOfShopware/FroshPlatformShareBasket/releases/tag/2.1.0), 5 months ago) - This plugin allows your customers to save the current basket and share it via link.
-- [stefanpoensgen/SptecOrderComments](https://github.com/stefanpoensgen/SptecOrderComments) ([3.0.1](https://github.com/stefanpoensgen/SptecOrderComments/releases/tag/3.0.1), 11 months ago) - Adds the ability to store comments to orders in the Shopware Admin.
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.0.0-rc3](https://github.com/shopware/shopware/releases/tag/v6.7.0.0-rc3), 6 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) ([2.1.0](https://github.com/FriendsOfShopware/FroshPlatformShareBasket/releases/tag/2.1.0), 6 months ago) - This plugin allows your customers to save the current basket and share it via link.
+- [stefanpoensgen/SptecOrderComments](https://github.com/stefanpoensgen/SptecOrderComments) ([3.0.1](https://github.com/stefanpoensgen/SptecOrderComments/releases/tag/3.0.1), 1 year ago) - Adds the ability to store comments to orders in the Shopware Admin.
