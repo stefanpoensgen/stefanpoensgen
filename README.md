@@ -9,7 +9,7 @@
 - [stefanpoensgen/windows-dev-environment](https://github.com/stefanpoensgen/windows-dev-environment) -  (2 months ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions (3 months ago)
 - [tinect/TinectRedirects](https://github.com/tinect/TinectRedirects) - 301/302 redirect management plugin for Shopware 6 💙 Just if it would fail into NOT_FOUND (3 months ago)
-- [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) - This plugin allows you to archive your mails. (3 months ago)
+- [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) - This plugin allows you to archive your mails. (4 months ago)
 
 #### 🌱 My latest projects
 
