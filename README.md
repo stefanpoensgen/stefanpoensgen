@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [FriendsOfShopware/FroshPlatformTemplateMail](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail) - This plugin allows you to use twig mails in Shopware 6. (1 week ago)
-- [stefanpoensgen/website](https://github.com/stefanpoensgen/website) - My personal website (4 weeks ago)
-- [stefanpoensgen/mjml-bin](https://github.com/stefanpoensgen/mjml-bin) -  (4 weeks ago)
+- [stefanpoensgen/website](https://github.com/stefanpoensgen/website) - My personal website (1 month ago)
+- [stefanpoensgen/mjml-bin](https://github.com/stefanpoensgen/mjml-bin) -  (1 month ago)
 - [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) - This plugin allows your customers to save the current basket and share it via link. (1 month ago)
 - [stefanpoensgen/windows-dev-environment](https://github.com/stefanpoensgen/windows-dev-environment) -  (2 months ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions (3 months ago)
