@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) - This plugin allows your customers to save the current basket and share it via link. (6 days ago)
+- [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) - This plugin allows your customers to save the current basket and share it via link. (1 week ago)
 - [FriendsOfShopware/FroshPlatformTemplateMail](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail) - This plugin allows you to use twig mails in Shopware 6. (3 weeks ago)
 - [stefanpoensgen/website](https://github.com/stefanpoensgen/website) - My personal website (1 month ago)
 - [stefanpoensgen/mjml-bin](https://github.com/stefanpoensgen/mjml-bin) -  (1 month ago)
@@ -24,8 +24,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) ([2.1.3](https://github.com/FriendsOfShopware/FroshPlatformShareBasket/releases/tag/2.1.3), 6 days ago) - This plugin allows your customers to save the current basket and share it via link.
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.7](https://github.com/shopware/shopware/releases/tag/v6.6.10.7), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.8](https://github.com/shopware/shopware/releases/tag/v6.6.10.8), 1 day ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
+- [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) ([2.1.3](https://github.com/FriendsOfShopware/FroshPlatformShareBasket/releases/tag/2.1.3), 1 week ago) - This plugin allows your customers to save the current basket and share it via link.
 - [FriendsOfShopware/FroshPlatformTemplateMail](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail) ([3.0.7](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail/releases/tag/3.0.7), 3 weeks ago) - This plugin allows you to use twig mails in Shopware 6.
 - [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) ([3.5.5](https://github.com/FriendsOfShopware/FroshPlatformMailArchive/releases/tag/3.5.5), 3 weeks ago) - This plugin allows you to archive your mails.
 - [tinect/TinectRedirects](https://github.com/tinect/TinectRedirects) ([3.1.5](https://github.com/tinect/TinectRedirects/releases/tag/3.1.5), 2 months ago) - 301/302 redirect management plugin for Shopware 6 💙 Just if it would fail into NOT_FOUND
