@@ -6,8 +6,8 @@
 - [tinect/TinectRedirects](https://github.com/tinect/TinectRedirects) - 301/302 redirect management plugin for Shopware 6 💙 Just if it would fail into NOT_FOUND (3 months ago)
 - [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) - This plugin allows your customers to save the current basket and share it via link. (3 months ago)
 - [FriendsOfShopware/FroshPlatformTemplateMail](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail) - This plugin allows you to use twig mails in Shopware 6. (4 months ago)
-- [stefanpoensgen/website](https://github.com/stefanpoensgen/website) - My personal website (4 months ago)
-- [stefanpoensgen/mjml-bin](https://github.com/stefanpoensgen/mjml-bin) -  (4 months ago)
+- [stefanpoensgen/website](https://github.com/stefanpoensgen/website) - My personal website (5 months ago)
+- [stefanpoensgen/mjml-bin](https://github.com/stefanpoensgen/mjml-bin) -  (5 months ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions (7 months ago)
 - [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) - This plugin allows you to archive your mails. (8 months ago)
 
