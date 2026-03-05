@@ -3,13 +3,13 @@
 #### 👷 Check out what I'm currently working on
 
 - [stefanpoensgen/stream-director](https://github.com/stefanpoensgen/stream-director) -  (1 week ago)
-- [stefanpoensgen/website](https://github.com/stefanpoensgen/website) - My personal website (1 week ago)
+- [stefanpoensgen/website](https://github.com/stefanpoensgen/website) - My personal website (2 weeks ago)
 - [stefanpoensgen/windows-dev-environment](https://github.com/stefanpoensgen/windows-dev-environment) -  (2 months ago)
+- [shopwareLabs/SwagAdvancedSyncAPI](https://github.com/shopwareLabs/SwagAdvancedSyncAPI) -  (3 months ago)
 - [tinect/TinectRedirects](https://github.com/tinect/TinectRedirects) - 301/302 redirect management plugin for Shopware 6 💙 Just if it would fail into NOT_FOUND (3 months ago)
 - [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) - This plugin allows your customers to save the current basket and share it via link. (4 months ago)
-- [FriendsOfShopware/FroshPlatformTemplateMail](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail) - This plugin allows you to use twig mails in Shopware 6. (4 months ago)
+- [FriendsOfShopware/FroshPlatformTemplateMail](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail) - This plugin allows you to use twig mails in Shopware 6. (5 months ago)
 - [stefanpoensgen/mjml-bin](https://github.com/stefanpoensgen/mjml-bin) -  (5 months ago)
-- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions (8 months ago)
 
 #### 🌱 My latest projects
 
@@ -24,8 +24,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) ([3.6.0](https://github.com/FriendsOfShopware/FroshPlatformMailArchive/releases/tag/3.6.0), 1 day ago) - This plugin allows you to archive your mails.
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.8.0](https://github.com/shopware/shopware/releases/tag/v6.7.8.0), 1 day ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
+- [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) ([3.6.0](https://github.com/FriendsOfShopware/FroshPlatformMailArchive/releases/tag/3.6.0), 2 days ago) - This plugin allows you to archive your mails.
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.8.0](https://github.com/shopware/shopware/releases/tag/v6.7.8.0), 2 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [stefanpoensgen/stream-director](https://github.com/stefanpoensgen/stream-director) ([v0.0.6](https://github.com/stefanpoensgen/stream-director/releases/tag/v0.0.6), 1 week ago) - 
 - [tinect/TinectRedirects](https://github.com/tinect/TinectRedirects) ([3.3.2](https://github.com/tinect/TinectRedirects/releases/tag/3.3.2), 2 weeks ago) - 301/302 redirect management plugin for Shopware 6 💙 Just if it would fail into NOT_FOUND
 - [FriendsOfShopware/FroshPlatformTemplateMail](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail) ([4.0.0](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail/releases/tag/4.0.0), 1 month ago) - This plugin allows you to use twig mails in Shopware 6.
