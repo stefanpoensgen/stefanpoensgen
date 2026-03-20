@@ -24,9 +24,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.8.2](https://github.com/shopware/shopware/releases/tag/v6.7.8.2), 1 day ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.8.2](https://github.com/shopware/shopware/releases/tag/v6.7.8.2), 2 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) ([3.6.0](https://github.com/FriendsOfShopware/FroshPlatformMailArchive/releases/tag/3.6.0), 2 weeks ago) - This plugin allows you to archive your mails.
-- [stefanpoensgen/stream-director](https://github.com/stefanpoensgen/stream-director) ([v0.0.6](https://github.com/stefanpoensgen/stream-director/releases/tag/v0.0.6), 3 weeks ago) - 
+- [stefanpoensgen/stream-director](https://github.com/stefanpoensgen/stream-director) ([v0.0.6](https://github.com/stefanpoensgen/stream-director/releases/tag/v0.0.6), 4 weeks ago) - 
 - [tinect/TinectRedirects](https://github.com/tinect/TinectRedirects) ([3.3.2](https://github.com/tinect/TinectRedirects/releases/tag/3.3.2), 1 month ago) - 301/302 redirect management plugin for Shopware 6 💙 Just if it would fail into NOT_FOUND
 - [FriendsOfShopware/FroshPlatformTemplateMail](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail) ([4.0.0](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail/releases/tag/4.0.0), 1 month ago) - This plugin allows you to use twig mails in Shopware 6.
 - [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) ([2.1.3](https://github.com/FriendsOfShopware/FroshPlatformShareBasket/releases/tag/2.1.3), 4 months ago) - This plugin allows your customers to save the current basket and share it via link.
