@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [FriendsOfShopware/shopware-sentry-bundle](https://github.com/FriendsOfShopware/shopware-sentry-bundle) -  (3 weeks ago)
+- [FriendsOfShopware/shopware-sentry-bundle](https://github.com/FriendsOfShopware/shopware-sentry-bundle) -  (4 weeks ago)
 - [stefanpoensgen/stream-director](https://github.com/stefanpoensgen/stream-director) -  (1 month ago)
 - [stefanpoensgen/website](https://github.com/stefanpoensgen/website) - My personal website (2 months ago)
 - [stefanpoensgen/windows-dev-environment](https://github.com/stefanpoensgen/windows-dev-environment) -  (3 months ago)
