@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [FriendsOfShopware/shopware-sentry-bundle](https://github.com/FriendsOfShopware/shopware-sentry-bundle) -  (4 weeks ago)
+- [FriendsOfShopware/shopware-sentry-bundle](https://github.com/FriendsOfShopware/shopware-sentry-bundle) -  (1 month ago)
 - [stefanpoensgen/stream-director](https://github.com/stefanpoensgen/stream-director) -  (1 month ago)
 - [stefanpoensgen/website](https://github.com/stefanpoensgen/website) - My personal website (2 months ago)
 - [stefanpoensgen/windows-dev-environment](https://github.com/stefanpoensgen/windows-dev-environment) -  (3 months ago)
@@ -24,7 +24,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.16](https://github.com/shopware/shopware/releases/tag/v6.6.10.16), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.7.9.1](https://github.com/shopware/shopware/releases/tag/v6.7.9.1), 1 day ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
 - [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) ([3.6.0](https://github.com/FriendsOfShopware/FroshPlatformMailArchive/releases/tag/3.6.0), 1 month ago) - This plugin allows you to archive your mails.
 - [stefanpoensgen/stream-director](https://github.com/stefanpoensgen/stream-director) ([v0.0.6](https://github.com/stefanpoensgen/stream-director/releases/tag/v0.0.6), 2 months ago) - 
 - [tinect/TinectRedirects](https://github.com/tinect/TinectRedirects) ([3.3.2](https://github.com/tinect/TinectRedirects/releases/tag/3.3.2), 2 months ago) - 301/302 redirect management plugin for Shopware 6 💙 Just if it would fail into NOT_FOUND
