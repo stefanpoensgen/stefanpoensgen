@@ -7,7 +7,7 @@
 - [FriendsOfShopware/shopware-sentry-bundle](https://github.com/FriendsOfShopware/shopware-sentry-bundle) -  (4 months ago)
 - [stefanpoensgen/stream-director](https://github.com/stefanpoensgen/stream-director) -  (5 months ago)
 - [stefanpoensgen/website](https://github.com/stefanpoensgen/website) - My personal website (5 months ago)
-- [shopwareLabs/SwagAdvancedSyncAPI](https://github.com/shopwareLabs/SwagAdvancedSyncAPI) -  (8 months ago)
+- [shopwareLabs/SwagAdvancedSyncAPI](https://github.com/shopwareLabs/SwagAdvancedSyncAPI) -  (9 months ago)
 - [tinect/TinectRedirects](https://github.com/tinect/TinectRedirects) - 301/302 redirect management plugin for Shopware 6 💙 Just if it would fail into NOT_FOUND (9 months ago)
 - [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) - This plugin allows your customers to save the current basket and share it via link. (9 months ago)
 
