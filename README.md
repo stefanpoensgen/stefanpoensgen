@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [FriendsOfShopware/FroshMjml](https://github.com/FriendsOfShopware/FroshMjml) - MJML Email Templates for Shopware 6 – WYSIWYG editor with drag-and-drop, reusable components, and automatic MJML-to-HTML compilation (2 weeks ago)
-- [shopware/varnish-shopware](https://github.com/shopware/varnish-shopware) - Ready to go Varnish image for Shopware 6 (1 month ago)
+- [shopware/varnish-shopware](https://github.com/shopware/varnish-shopware) - Ready to go Varnish image for Shopware 6 (2 months ago)
 - [FriendsOfShopware/shopware-sentry-bundle](https://github.com/FriendsOfShopware/shopware-sentry-bundle) -  (5 months ago)
 - [stefanpoensgen/stream-director](https://github.com/stefanpoensgen/stream-director) -  (5 months ago)
 - [stefanpoensgen/website](https://github.com/stefanpoensgen/website) - My personal website (6 months ago)
