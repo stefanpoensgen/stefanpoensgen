@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [FriendsOfShopware/shopware-sentry-bundle](https://github.com/FriendsOfShopware/shopware-sentry-bundle) -  (1 day ago)
-- [FriendsOfShopware/FroshMjml](https://github.com/FriendsOfShopware/FroshMjml) - MJML Email Templates for Shopware 6 – WYSIWYG editor with drag-and-drop, reusable components, and automatic MJML-to-HTML compilation (2 weeks ago)
+- [FriendsOfShopware/shopware-sentry-bundle](https://github.com/FriendsOfShopware/shopware-sentry-bundle) -  (2 days ago)
+- [FriendsOfShopware/FroshMjml](https://github.com/FriendsOfShopware/FroshMjml) - MJML Email Templates for Shopware 6 – WYSIWYG editor with drag-and-drop, reusable components, and automatic MJML-to-HTML compilation (3 weeks ago)
 - [shopware/varnish-shopware](https://github.com/shopware/varnish-shopware) - Ready to go Varnish image for Shopware 6 (2 months ago)
 - [stefanpoensgen/stream-director](https://github.com/stefanpoensgen/stream-director) -  (6 months ago)
 - [stefanpoensgen/website](https://github.com/stefanpoensgen/website) - My personal website (6 months ago)
@@ -24,7 +24,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfShopware/shopware-sentry-bundle](https://github.com/FriendsOfShopware/shopware-sentry-bundle) ([0.4.0](https://github.com/FriendsOfShopware/shopware-sentry-bundle/releases/tag/0.4.0), 1 day ago) - 
+- [FriendsOfShopware/shopware-sentry-bundle](https://github.com/FriendsOfShopware/shopware-sentry-bundle) ([0.4.0](https://github.com/FriendsOfShopware/shopware-sentry-bundle/releases/tag/0.4.0), 2 days ago) - 
 - [FriendsOfShopware/FroshMjml](https://github.com/FriendsOfShopware/FroshMjml) ([1.1.0](https://github.com/FriendsOfShopware/FroshMjml/releases/tag/1.1.0), 1 month ago) - MJML Email Templates for Shopware 6 – WYSIWYG editor with drag-and-drop, reusable components, and automatic MJML-to-HTML compilation
 - [stefanpoensgen/stream-director](https://github.com/stefanpoensgen/stream-director) ([v0.0.6](https://github.com/stefanpoensgen/stream-director/releases/tag/v0.0.6), 6 months ago) - 
 - [tinect/TinectRedirects](https://github.com/tinect/TinectRedirects) ([3.3.2](https://github.com/tinect/TinectRedirects/releases/tag/3.3.2), 6 months ago) - 301/302 redirect management plugin for Shopware 6 💙 Just if it would fail into NOT_FOUND
