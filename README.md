@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [FriendsOfShopware/FroshMjml](https://github.com/FriendsOfShopware/FroshMjml) - MJML Email Templates for Shopware 6 – WYSIWYG editor with drag-and-drop, reusable components, and automatic MJML-to-HTML compilation (4 weeks ago)
+- [FriendsOfShopware/FroshMjml](https://github.com/FriendsOfShopware/FroshMjml) - MJML Email Templates for Shopware 6 – WYSIWYG editor with drag-and-drop, reusable components, and automatic MJML-to-HTML compilation (1 day ago)
 - [FriendsOfShopware/shopware-sentry-bundle](https://github.com/FriendsOfShopware/shopware-sentry-bundle) -  (1 month ago)
 - [shopware/varnish-shopware](https://github.com/shopware/varnish-shopware) - Ready to go Varnish image for Shopware 6 (3 months ago)
 - [stefanpoensgen/stream-director](https://github.com/stefanpoensgen/stream-director) -  (7 months ago)
@@ -28,5 +28,4 @@
 - [FriendsOfShopware/FroshMjml](https://github.com/FriendsOfShopware/FroshMjml) ([1.1.0](https://github.com/FriendsOfShopware/FroshMjml/releases/tag/1.1.0), 2 months ago) - MJML Email Templates for Shopware 6 – WYSIWYG editor with drag-and-drop, reusable components, and automatic MJML-to-HTML compilation
 - [stefanpoensgen/stream-director](https://github.com/stefanpoensgen/stream-director) ([v0.0.6](https://github.com/stefanpoensgen/stream-director/releases/tag/v0.0.6), 7 months ago) - 
 - [tinect/TinectRedirects](https://github.com/tinect/TinectRedirects) ([3.3.2](https://github.com/tinect/TinectRedirects/releases/tag/3.3.2), 7 months ago) - 301/302 redirect management plugin for Shopware 6 💙 Just if it would fail into NOT_FOUND
-- [FriendsOfShopware/FroshPlatformTemplateMail](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail) ([4.0.0](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail/releases/tag/4.0.0), 8 months ago) - This plugin allows you to use twig mails in Shopware 6.
 - [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) ([2.1.3](https://github.com/FriendsOfShopware/FroshPlatformShareBasket/releases/tag/2.1.3), 11 months ago) - This plugin allows your customers to save the current basket and share it via link.
