@@ -2,13 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (1 day ago)
-- [FriendsOfShopware/FroshMjml](https://github.com/FriendsOfShopware/FroshMjml) - MJML Email Templates for Shopware 6 – WYSIWYG editor with drag-and-drop, reusable components, and automatic MJML-to-HTML compilation (6 days ago)
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (2 days ago)
+- [FriendsOfShopware/FroshMjml](https://github.com/FriendsOfShopware/FroshMjml) - MJML Email Templates for Shopware 6 – WYSIWYG editor with drag-and-drop, reusable components, and automatic MJML-to-HTML compilation (1 week ago)
 - [FriendsOfShopware/shopware-sentry-bundle](https://github.com/FriendsOfShopware/shopware-sentry-bundle) -  (1 month ago)
 - [shopware/varnish-shopware](https://github.com/shopware/varnish-shopware) - Ready to go Varnish image for Shopware 6 (3 months ago)
 - [stefanpoensgen/stream-director](https://github.com/stefanpoensgen/stream-director) -  (7 months ago)
 - [stefanpoensgen/website](https://github.com/stefanpoensgen/website) - My personal website (7 months ago)
-- [shopwareLabs/SwagAdvancedSyncAPI](https://github.com/shopwareLabs/SwagAdvancedSyncAPI) -  (10 months ago)
+- [shopwareLabs/SwagAdvancedSyncAPI](https://github.com/shopwareLabs/SwagAdvancedSyncAPI) -  (11 months ago)
 - [tinect/TinectRedirects](https://github.com/tinect/TinectRedirects) - 301/302 redirect management plugin for Shopware 6 💙 Just if it would fail into NOT_FOUND (11 months ago)
 
 #### 🌱 My latest projects
